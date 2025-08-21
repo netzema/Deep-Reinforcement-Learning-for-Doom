@@ -7,3 +7,7 @@ _vizdoom.ini
 .venv/
 venv/
 env/
+
+
+*.onnx
+report.md
